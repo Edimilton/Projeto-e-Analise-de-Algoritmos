@@ -1,2 +1,2 @@
 # Projeto-e-Analise-de-Algoritmos
-Análise de complexidade de algoritmos, técnicas clássicas de projeto de algoritmos, solução de problemas e construção de softwares em vários domínios de aplicação. 
+Algoritmos de Ordenação: Mergesort, Quicksort, Heapsort, Ordenação por contagem, k-way merge. Limite inferior de ordenação. Ordem estatística. Técnicas de projeto de algoritmos: força bruta, indução, divisão e conquista, programação dinâmica, método guloso, métodos probabilísticos (Las Vegas e Monte Carlo) branch and bound e backtracking. Aplicações das técnicas em diversos domínios, incluindo: processamento de sequências e conjuntos, geométrico, numérico e probabilístico. Análise da complexidade dos algoritmos abordados.
